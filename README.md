@@ -1,5 +1,5 @@
 # INTRODUCTION TO PROGRAMMING IN PYTHON
-by Jing Zou, Rich Parker and Jessica Novillo Argudo
+by Jing Xue, Rich Parker and Jessica Novillo Argudo
 
 -----
 
