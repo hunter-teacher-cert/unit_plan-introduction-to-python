@@ -26,6 +26,8 @@ We decided to make this unit because some students would take an APCSA course ne
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+* Python
+* Replit
 
 ---
 
@@ -35,9 +37,19 @@ We decided to make this unit because some students would take an APCSA course ne
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
+Lesson 1: Introduction
+Lesson 2: Variables
+Lesson 3: Conditionals (part 1)
+Lesson 4: Conditionals (part 2)
+Lesson 5:
+Lesson 6:
+Lesson 7:
+Lesson 8:
+Lesson 9:
+Lesson 10:
 
 ---
 
