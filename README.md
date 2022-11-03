@@ -33,6 +33,7 @@ We decided to make this unit because some students would take an APCSA course ne
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+[Python documentation](https://www.python.org/doc/)
 
 ---
 
