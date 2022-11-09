@@ -44,25 +44,25 @@ Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
-Lesson 1: Introduction
+Lesson 00: Introduction
 
-Lesson 2: Variables
+Lesson 01: Variables
 
-Lesson 3: Conditionals (part 1)
+Lesson 02: Conditionals (part 1)
 
-Lesson 4: Conditionals (part 2)
+Lesson 03: Conditionals (part 2)
 
-Lesson 5:
+Lesson 04:
 
-Lesson 6:
+Lesson 05:
 
-Lesson 7:
+Lesson 06:
 
-Lesson 8:
+Lesson 07:
 
-Lesson 9:
+Lesson 08:
 
-Lesson 10:
+Lesson 09:
 
 ---
 
