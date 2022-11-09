@@ -58,7 +58,7 @@ Lesson 04: Names and Functions (day 1)
 
 Lesson 05: Functions (day 2)
 
-Lesson 06:
+Lesson 06: Iteration (day 1)
 
 Lesson 07:
 
