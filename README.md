@@ -69,4 +69,8 @@ Lesson 10:
 ### Assesments
 (list summative and/or formative assessments used)
 
+Formative: Programming log
+
+Summative: Build a quiz application with Python
+
 ---
