@@ -36,6 +36,7 @@ We decided to make this unit because some students would take an APCSA course ne
 (include any links/books/readings to be used during this unit)
 
 [Python documentation](https://www.python.org/doc/)
+[Textbook] (https://books.trinket.io/pfe/index.html)
 
 ---
 
@@ -52,9 +53,9 @@ Lesson 02: Conditionals (part 1)
 
 Lesson 03: Conditionals (part 2)
 
-Lesson 04:
+Lesson 04: Names and Functions (day 1)
 
-Lesson 05:
+Lesson 05: Functions (day 2)
 
 Lesson 06:
 
