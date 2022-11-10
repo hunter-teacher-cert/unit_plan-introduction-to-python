@@ -25,7 +25,6 @@ We decided to make this unit because some students would take an APCSA course ne
 ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
 * Python
 * Replit
@@ -33,7 +32,6 @@ We decided to make this unit because some students would take an APCSA course ne
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
 
 [Python documentation](https://www.python.org/doc/)
 
@@ -69,7 +67,6 @@ Lesson 09:
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
 
 Formative: Programming log
 
