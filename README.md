@@ -40,9 +40,6 @@ We decided to make this unit because some students would take an APCSA course ne
 ---
 
 ### Lessons
-Total lenght: 2 Weeks
-
-(list each lesson with main topic(s))
 
 Lesson 00: Introduction
 
