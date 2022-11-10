@@ -55,11 +55,11 @@ Lesson 05: Functions (day 2)
 
 Lesson 06: Iteration (day 1)
 
-Lesson 07:
+Lesson 07: Putting It All Together
 
-Lesson 08:
+Lesson 08: Building A Quiz App (day 1)
 
-Lesson 09:
+Lesson 09: Building A Quiz App (day 2)
 
 ---
 
