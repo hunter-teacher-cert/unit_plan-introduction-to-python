@@ -28,6 +28,7 @@ We decided to make this unit because some students would take an APCSA course ne
 
 * Python
 * Replit
+* SNAP!
 
 ---
 
@@ -43,7 +44,7 @@ We decided to make this unit because some students would take an APCSA course ne
 
 Lesson 00: Introduction
 
-Lesson 01: Variables
+Lesson 01: Variables, statements and expressions
 
 Lesson 02: Conditionals (part 1)
 
@@ -63,7 +64,7 @@ Lesson 09: Building A Quiz App (day 2)
 
 ---
 
-### Assesments
+### Assessments
 
 Formative: Programming log
 
