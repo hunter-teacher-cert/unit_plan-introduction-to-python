@@ -4,14 +4,14 @@ by Jing Xue, Rich Parker and Jessica Novillo Argudo
 -----
 
 ### General Overview
-This unit introduces text-based programming to students using the programming language Python. It provides an overview of the tools available in Python, such as the basic commands, data types, variables, conditional statements, functions, loops, and simple data structures. At the end of the unit, students will have the skills that will help them develop programs where they will show what they learned in the unit. 
+This unit introduces text-based programming to CSP students using the programming language Python. It provides an overview of the tools available in Python, such as the basic commands, data types, variables, conditional statements, functions, loops, and simple data structures. At the end of the unit, students will have the skills that will help them develop programs where they will show what they learned in the unit. 
 
-This unit would serve as a final unit for the APCSP course and be introduced right after the AP Exam.
+This unit would serve as a final unit for the AP CSP course and be introduced right after the AP Exam.
 
 ---
 
 ### Motivation for Unit
-We decided to make this unit because some students would take an APCSA course next year, and it could be difficult for them to transition from Snap! (block-based) to a text-based programming language, Java. Especially after the AP Exam, students could use Python to learn to program and maybe create games or artwork.  
+We decided to make this unit because some CSP students would take AP CSA course next year, and it could be difficult for them to transition from Snap! (block-based) to a text-based programming language, Java. Especially after the AP Exam, students could use Python to learn to program in text to recreate a project they make previously.  
 
 ---
 
@@ -26,9 +26,11 @@ We decided to make this unit because some students would take an APCSA course ne
 
 ### Tools Used
 
-* Python
-* Replit
-* SNAP!
+
+* Replit  (IDE) 
+* SNAP!   (scaffolding)
+* Nearpod (Collaboration)
+* Class Dojo (Learning Management)
 
 ---
 
@@ -50,11 +52,11 @@ Lesson 02: Conditionals (part 1)
 
 Lesson 03: Conditionals (part 2)
 
-Lesson 04: Names and Functions (day 1)
+Lesson 04: Variables and User Input
 
-Lesson 05: Functions (day 2)
+Lesson 05: Functions 
 
-Lesson 06: Iteration (day 1)
+Lesson 06: Iteration 
 
 Lesson 07: Putting It All Together
 
